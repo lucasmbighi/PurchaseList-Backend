@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CnLI1E2E1qeYrvAHfFaPEDfxhGFozfRRV/e/D8KwOiE=",
+  "Source": "PurchaseListAPI",
+  "BasePath": "_content/PurchaseListAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

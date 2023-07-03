@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseListAPI", "PurchaseListAPI\PurchaseListAPI.csproj", "{AF51B7A6-8D08-4F89-AC18-79CDC3F4BC49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF51B7A6-8D08-4F89-AC18-79CDC3F4BC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF51B7A6-8D08-4F89-AC18-79CDC3F4BC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF51B7A6-8D08-4F89-AC18-79CDC3F4BC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF51B7A6-8D08-4F89-AC18-79CDC3F4BC49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DA595D0-2179-4123-B0FF-891EC245EEE3}
+	EndGlobalSection
+EndGlobal
